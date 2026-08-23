@@ -3,6 +3,18 @@
     <channel>
         <title>Lookr</title>
         <item>
+            <title>1.0.11</title>
+            <pubDate>Sun, 23 Aug 2026 17:14:13 +0800</pubDate>
+            <sparkle:version>1.0.11</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.11.zip" length="3353104" type="application/octet-stream" sparkle:edSignature="TLhZuH5Vy9bAIWgqLoRoqLwCaGjzMgO2Ch6/FpPqyg7IadxArvm8FZalsMybcSOdId+ZJ9PKAnOBB9Gx3qomDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lookr.rest/downloads/Lookr1.0.11-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="15546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9V6fbvO9bxbtYZJn22lGP8wJHnbPzDBEWKS2mr/QRjWiZq6l8rv7Qnx0/Ax9jYeXyJDNXInTffdIwb1x5lFTBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.10</title>
             <pubDate>Sun, 23 Aug 2026 16:50:07 +0800</pubDate>
             <sparkle:version>1.0.10</sparkle:version>
@@ -19,15 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://lookr.rest/downloads/Lookr-1.0.9.zip" length="3527534" type="application/octet-stream" sparkle:edSignature="pt/UKn/Ftpz4BZH2a6xhCKmQ7xVBibJdITdd+wlgMMPueWKWhUlGd3ZwGcWBkizwtIvhrTD/rcWbFGYDSwLCCw=="/>
-        </item>
-        <item>
-            <title>1.0.8</title>
-            <pubDate>Sun, 23 Aug 2026 14:46:53 +0800</pubDate>
-            <sparkle:version>1.0.8</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.8/Lookr-1.0.8.zip" length="3092094" type="application/octet-stream" sparkle:edSignature="QIdziXCLAtmAQCDergryNtZ2WdIzPL1Jc15xgUzH8ib5xndA72PvvWL5oquR5wZd1HXMO1F6e2W6n/D0WO6uAw=="/>
         </item>
     </channel>
 </rss>
