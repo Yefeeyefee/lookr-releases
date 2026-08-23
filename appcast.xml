@@ -3,6 +3,15 @@
     <channel>
         <title>Lookr</title>
         <item>
+            <title>1.0.5</title>
+            <pubDate>Sun, 23 Aug 2026 14:24:04 +0800</pubDate>
+            <sparkle:version>1.0.5</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.5/Lookr-1.0.5.zip" length="3091706" type="application/octet-stream" sparkle:edSignature="pWVxDjtS9wX/NUDUEKvbR1i4j/Veh2sTRAq0kvTSlH29XUfWEyswfFGoGxvZ93r/Ns315Pxwlt6bbbcNHzEqAw=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Sun, 23 Aug 2026 13:42:35 +0800</pubDate>
             <sparkle:version>1.0.4</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.3/Lookr-1.0.3.zip" length="3092222" type="application/octet-stream" sparkle:edSignature="8ETTB+wx2MPKdtr44J27wxDznj1dpMXNZwaYXn3rhR3PgbuSjFbMNvWLe9XNOGXp65b1HXgL52tx9EP633YODg=="/>
-        </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Sun, 23 Aug 2026 13:17:03 +0800</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.2/Lookr-1.0.2.zip" length="3091855" type="application/octet-stream" sparkle:edSignature="E0DsC1JjqXVp6IOgZ8/qYYgeSPgTKh65iS7HPv4C4jpRpSmN+rJsC/Q2fAExvPRCMtS4SZ/vbnhgIOYlNtSECA=="/>
         </item>
     </channel>
 </rss>
