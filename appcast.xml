@@ -3,6 +3,15 @@
     <channel>
         <title>Lookr</title>
         <item>
+            <title>1.0.10</title>
+            <pubDate>Sun, 23 Aug 2026 16:50:07 +0800</pubDate>
+            <sparkle:version>1.0.10</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.10.zip" length="3354843" type="application/octet-stream" sparkle:edSignature="CK5O2pLtVVeHuu7KeM1+S81dkRwSaQVX0qjHFnYb+tDyJ5u6RLiyByjVSHP8iqH9Q/sa4t/r5mOukE/hsyGhDQ=="/>
+        </item>
+        <item>
             <title>1.0.9</title>
             <pubDate>Sun, 23 Aug 2026 16:22:01 +0800</pubDate>
             <sparkle:version>1.0.9</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.8/Lookr-1.0.8.zip" length="3092094" type="application/octet-stream" sparkle:edSignature="QIdziXCLAtmAQCDergryNtZ2WdIzPL1Jc15xgUzH8ib5xndA72PvvWL5oquR5wZd1HXMO1F6e2W6n/D0WO6uAw=="/>
-        </item>
-        <item>
-            <title>1.0.7</title>
-            <pubDate>Sun, 23 Aug 2026 14:37:19 +0800</pubDate>
-            <sparkle:version>1.0.7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.7/Lookr-1.0.7.zip" length="3091778" type="application/octet-stream" sparkle:edSignature="9iob4uUCZCSxiE3C6bUj5aNGjMFbihWLiP7BXvFPVMo7l+1TEGCiE0ICu7JQ0blVwbroQt5rmiNgQPk9o1meBw=="/>
         </item>
     </channel>
 </rss>
