@@ -3,6 +3,15 @@
     <channel>
         <title>Lookr</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Sun, 23 Aug 2026 14:37:19 +0800</pubDate>
+            <sparkle:version>1.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.7/Lookr-1.0.7.zip" length="3091778" type="application/octet-stream" sparkle:edSignature="9iob4uUCZCSxiE3C6bUj5aNGjMFbihWLiP7BXvFPVMo7l+1TEGCiE0ICu7JQ0blVwbroQt5rmiNgQPk9o1meBw=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Sun, 23 Aug 2026 14:31:47 +0800</pubDate>
             <sparkle:version>1.0.6</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.5/Lookr-1.0.5.zip" length="3091706" type="application/octet-stream" sparkle:edSignature="pWVxDjtS9wX/NUDUEKvbR1i4j/Veh2sTRAq0kvTSlH29XUfWEyswfFGoGxvZ93r/Ns315Pxwlt6bbbcNHzEqAw=="/>
-        </item>
-        <item>
-            <title>1.0.4</title>
-            <pubDate>Sun, 23 Aug 2026 13:42:35 +0800</pubDate>
-            <sparkle:version>1.0.4</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.4/Lookr-1.0.4.zip" length="3091694" type="application/octet-stream" sparkle:edSignature="rL7N78Dv57INF64RPxLFG+2psUsXEkrjb8JRP80lzxieCfnu48LTNBfNRkO/azwqP6esSRdmXc3tBAbfEO3eCw=="/>
         </item>
     </channel>
 </rss>
