@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.9/Lookr-1.0.9.zip" length="3527534" type="application/octet-stream" sparkle:edSignature="pt/UKn/Ftpz4BZH2a6xhCKmQ7xVBibJdITdd+wlgMMPueWKWhUlGd3ZwGcWBkizwtIvhrTD/rcWbFGYDSwLCCw=="/>
+            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.9.zip" length="3527534" type="application/octet-stream" sparkle:edSignature="pt/UKn/Ftpz4BZH2a6xhCKmQ7xVBibJdITdd+wlgMMPueWKWhUlGd3ZwGcWBkizwtIvhrTD/rcWbFGYDSwLCCw=="/>
         </item>
         <item>
             <title>1.0.8</title>
