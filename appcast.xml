@@ -3,6 +3,19 @@
     <channel>
         <title>Lookr</title>
         <item>
+            <title>1.0.12</title>
+            <pubDate>Mon, 24 Aug 2026 19:28:03 +0800</pubDate>
+            <sparkle:version>1.0.12</sparkle:version>
+            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.12.zip" length="3625240" type="application/octet-stream" sparkle:edSignature="VvhplpefFciC3WvfePtM84ZqLdHMUwwvrHjFo2aDZCRFlUfC8dqeyf+mcZuZ2iPabliG3/N0pEr1rUVp/xp1AQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.11.delta" sparkle:deltaFrom="1.0.11" length="294682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="txiYsS83rnC+8boXP3kZXkFNCQQlTYbOOoPDCynpU4u80e1MbtEou5/B5DKUwekSWxfAqcwMuendUAmRMUI0Bw=="/>
+                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="293974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vQJRV6GgZlNj4pbi8eVRduzgFcasYJ2RxG9+Q5NayNZFYOOvdi5CzXeK9xPrbDbkI3LYZ2agUIi53rwssDd4Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.11</title>
             <pubDate>Sun, 23 Aug 2026 17:14:13 +0800</pubDate>
             <sparkle:version>1.0.11</sparkle:version>
@@ -22,15 +35,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://lookr.rest/downloads/Lookr-1.0.10.zip" length="3354843" type="application/octet-stream" sparkle:edSignature="CK5O2pLtVVeHuu7KeM1+S81dkRwSaQVX0qjHFnYb+tDyJ5u6RLiyByjVSHP8iqH9Q/sa4t/r5mOukE/hsyGhDQ=="/>
-        </item>
-        <item>
-            <title>1.0.9</title>
-            <pubDate>Sun, 23 Aug 2026 16:22:01 +0800</pubDate>
-            <sparkle:version>1.0.9</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.9.zip" length="3527534" type="application/octet-stream" sparkle:edSignature="pt/UKn/Ftpz4BZH2a6xhCKmQ7xVBibJdITdd+wlgMMPueWKWhUlGd3ZwGcWBkizwtIvhrTD/rcWbFGYDSwLCCw=="/>
         </item>
     </channel>
 </rss>
