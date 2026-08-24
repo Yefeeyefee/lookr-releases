@@ -9,10 +9,10 @@
             <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.12.zip" length="3625240" type="application/octet-stream" sparkle:edSignature="VvhplpefFciC3WvfePtM84ZqLdHMUwwvrHjFo2aDZCRFlUfC8dqeyf+mcZuZ2iPabliG3/N0pEr1rUVp/xp1AQ=="/>
+            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.12.zip" length="3627060" type="application/octet-stream" sparkle:edSignature="f/vcCEsL7p1vVPujSSBki0xWj1IUl+aVi2aWNM10lYuS7PICM9q3Y8GRPS0xaFIWNxQIO+qbqDKCbUmHa2n4AA=="/>
             <sparkle:deltas>
-                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.11.delta" sparkle:deltaFrom="1.0.11" length="294682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="txiYsS83rnC+8boXP3kZXkFNCQQlTYbOOoPDCynpU4u80e1MbtEou5/B5DKUwekSWxfAqcwMuendUAmRMUI0Bw=="/>
-                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="293974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vQJRV6GgZlNj4pbi8eVRduzgFcasYJ2RxG9+Q5NayNZFYOOvdi5CzXeK9xPrbDbkI3LYZ2agUIi53rwssDd4Ag=="/>
+                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.11.delta" sparkle:deltaFrom="1.0.11" length="296162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GhHYKFBpN1hQuRXkBStncwSF790wrEu/KLr24EOWwxf/Sx1+AUnezwiK3KAW80snpnXkxCf0koaOyiddaV3/Bw=="/>
+                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="295242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4pdNYohQjlInGZoKI2d20EVXyiTsdgnENcGwFWSYABcdQUkb6Wj5+znWpRSfsv2k9EQijToga4UIpmkremmrDw=="/>
             </sparkle:deltas>
         </item>
         <item>
