@@ -3,38 +3,13 @@
     <channel>
         <title>Lookr</title>
         <item>
-            <title>1.0.12</title>
-            <pubDate>Mon, 24 Aug 2026 19:28:03 +0800</pubDate>
-            <sparkle:version>1.0.12</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <title>1.0.13</title>
+            <pubDate>Wed, 26 Aug 2026 11:04:24 +0800</pubDate>
+            <sparkle:version>1.0.13</sparkle:version>
+            <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.12.zip" length="3627060" type="application/octet-stream" sparkle:edSignature="f/vcCEsL7p1vVPujSSBki0xWj1IUl+aVi2aWNM10lYuS7PICM9q3Y8GRPS0xaFIWNxQIO+qbqDKCbUmHa2n4AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.11.delta" sparkle:deltaFrom="1.0.11" length="296162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GhHYKFBpN1hQuRXkBStncwSF790wrEu/KLr24EOWwxf/Sx1+AUnezwiK3KAW80snpnXkxCf0koaOyiddaV3/Bw=="/>
-                <enclosure url="https://lookr.rest/downloads/Lookr1.0.12-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="295242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4pdNYohQjlInGZoKI2d20EVXyiTsdgnENcGwFWSYABcdQUkb6Wj5+znWpRSfsv2k9EQijToga4UIpmkremmrDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.11</title>
-            <pubDate>Sun, 23 Aug 2026 17:14:13 +0800</pubDate>
-            <sparkle:version>1.0.11</sparkle:version>
-            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.11.zip" length="3353104" type="application/octet-stream" sparkle:edSignature="TLhZuH5Vy9bAIWgqLoRoqLwCaGjzMgO2Ch6/FpPqyg7IadxArvm8FZalsMybcSOdId+ZJ9PKAnOBB9Gx3qomDg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://lookr.rest/downloads/Lookr1.0.11-1.0.10.delta" sparkle:deltaFrom="1.0.10" length="15546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9V6fbvO9bxbtYZJn22lGP8wJHnbPzDBEWKS2mr/QRjWiZq6l8rv7Qnx0/Ax9jYeXyJDNXInTffdIwb1x5lFTBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.10</title>
-            <pubDate>Sun, 23 Aug 2026 16:50:07 +0800</pubDate>
-            <sparkle:version>1.0.10</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://lookr.rest/downloads/Lookr-1.0.10.zip" length="3354843" type="application/octet-stream" sparkle:edSignature="CK5O2pLtVVeHuu7KeM1+S81dkRwSaQVX0qjHFnYb+tDyJ5u6RLiyByjVSHP8iqH9Q/sa4t/r5mOukE/hsyGhDQ=="/>
+            <enclosure url="https://github.com/Yefeeyefee/lookr-releases/releases/download/v1.0.13/Lookr-1.0.13.zip" length="3680185" type="application/octet-stream" sparkle:edSignature="dYO9Ud6X+YdTtVqICIdQFC9GLTqNSK4O9m9kMHYRjehXz7ekdFd1FTcvwf7nP6yPXtwHR4SLVuav8VcrnrMfBg=="/>
         </item>
     </channel>
 </rss>
